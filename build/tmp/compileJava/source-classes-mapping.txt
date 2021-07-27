@@ -6,3 +6,5 @@ beakjoon/string/N1371.java
  beakjoon.string.N1371
 beakjoon/string/N2154.java
  beakjoon.string.N2154
+beakjoon/string/N2386.java
+ beakjoon.string.N2386
