@@ -1,2 +1,4 @@
 beakjoon/string/N1100.java
  beakjoon.string.N1100
+beakjoon/string/N1225.java
+ beakjoon.string.N1225
