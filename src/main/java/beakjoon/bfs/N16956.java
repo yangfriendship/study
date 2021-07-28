@@ -79,11 +79,9 @@ public class N16956 {
             return true;
         }
         if (canMove(y, x + 1) && map[y][x + 1] == S) {
-
             return true;
         }
         if (canMove(y, x - 1) && map[y][x - 1] == S) {
-
             return true;
         }
         return false;
