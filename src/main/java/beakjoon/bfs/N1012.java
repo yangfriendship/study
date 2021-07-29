@@ -37,11 +37,9 @@ public class N1012 {
                     }
                 }
             }
-
             System.out.println(count);
             count = 0;
         }
-
     }
 
     private static void search(int y, int x) {

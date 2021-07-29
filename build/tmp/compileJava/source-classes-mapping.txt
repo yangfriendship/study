@@ -20,3 +20,5 @@ beakjoon/string/N2386.java
  beakjoon.string.N2386
 beakjoon/bfs/N1012.java
  beakjoon.bfs.N1012
+beakjoon/binary/N1920.java
+ beakjoon.binary.N1920
