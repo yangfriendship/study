@@ -22,3 +22,5 @@ beakjoon/bfs/N1012.java
  beakjoon.bfs.N1012
 beakjoon/binary/N1920.java
  beakjoon.binary.N1920
+beakjoon/binary/N1094.java
+ beakjoon.binary.N1094
